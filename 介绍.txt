@@ -1,0 +1,8 @@
+1.discharge_dataset_format.py
+将mat文件转换成shelve小型数据库格式，方便数据处理.
+2.zzy_model.py
+项目成员开发的工具库，包含特征提取，数据归一化，滤波，异常点处理等数据预处理操作，并提供算法的预测精度计算功能.
+3.extract_feature_GCAtest.py
+从数据集中提取21中特征，并使用GCA算法分别分析其有效性.
+4.train_and_test
+从数据集中提取数据，构造训练集和测试集，验证各种机器学习算法的预测结果，分析其精确程度.
